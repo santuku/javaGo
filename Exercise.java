@@ -1,16 +1,4 @@
 import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-Ss
-
-
-
-
-
-
-
-
-
-
-
 import javax.rmi.ssl.SslRMIClientSocketFactory;
 import java.util.Scanner;
 public class Exercise {
@@ -105,21 +93,6 @@ public class Exercise {
             System.out.println("是中年");
         }else if(age >= 56){
             System.out.println("是老年");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Ss
 
    }
 }
