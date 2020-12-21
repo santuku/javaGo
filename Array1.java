@@ -1,4 +1,4 @@
- public class Array {
+ public class Array1{
     public static void main(String[] args) {
         //1.求数组的平均值
         /*实现一个方法 avg, 以数组为参数,
